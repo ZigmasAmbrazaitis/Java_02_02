@@ -10,6 +10,6 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         System.out.println("Iveskite zodi");
         String zodis = sc.nextLine();
-        System.out.println("Jusu zodis: " + zodis);
+        System.out.println("Jusu zodyje simboliu: " + zodis.length());
     }
 }
